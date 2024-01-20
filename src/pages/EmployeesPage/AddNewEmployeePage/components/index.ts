@@ -1,0 +1,7 @@
+export * from './Attachments'
+export * from './HrInformation'
+export * from './MedicalInsurance'
+export * from './PersonalInformation'
+export * from './SalaryInformation'
+export * from './SocialInsurance'
+export * from './WorkInformation'

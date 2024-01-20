@@ -1,0 +1,6 @@
+export * from './BranchesPage'
+export * from './DashboardPage'
+export * from './DepartmentsPage'
+export * from './EmployeesPage'
+export * from './InsuranceOfficesPage'
+export * from './LoginPage'
