@@ -95,7 +95,7 @@ export const HrInformation = ({ data }: { data: EmployeeType | undefined }) => {
             <Divider
               label={
                 <Text color="dimmed" size="sm">
-                  "Documents Delivery Date
+                  Documents Delivery Date
                 </Text>
               }
             />
